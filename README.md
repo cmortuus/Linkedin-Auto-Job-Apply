@@ -1,4 +1,4 @@
-#Linkedin Auto Apply Jobs
+# Linkedin Auto Apply Jobs
 In order to use this you must download the firefox web driver and put it somewhere in your path. You can find the driver here. https://github.com/mozilla/geckodriver/releases
 
 You will also need to install selenium with pip
